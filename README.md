@@ -1,3 +1,3 @@
 # Demo
 
-Description of the project for DT1.
+Description of the project for DT1 - in Zurich
